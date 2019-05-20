@@ -1,0 +1,7 @@
+TODO LIST
+
+* Add self consistency checks
+* Add locking for synchronization issues
+* Test case with threads
+* Add suupport for equivalence testing and minimization
+( http://www.cag.lcs.mit.edu/6.004/Lectures/lect6/sld013.htm )
